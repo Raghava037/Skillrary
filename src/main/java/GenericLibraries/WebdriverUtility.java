@@ -206,5 +206,4 @@ public class WebdriverUtility
 	public void quitBrowser() {
 		driver.quit();
 	}
-	
 }
