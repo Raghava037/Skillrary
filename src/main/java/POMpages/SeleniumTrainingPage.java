@@ -7,6 +7,8 @@ import org.openqa.selenium.support.PageFactory;
 
 import GenericLibraries.WebdriverUtility;
 
+
+
 public class SeleniumTrainingPage 
 {
 	//declaration

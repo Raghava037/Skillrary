@@ -21,7 +21,7 @@ public class FirstTest extends BaseClass
 		skillraryDemoAppPage.mouseHoverTocourse(web);
 		skillraryDemoAppPage.clickSeleniumTraining();
 		
-		soft.assertEquals(selenium.getPageHeader(), "elenium Training");
+		soft.assertEquals(selenium.getPageHeader(), "Selenium Training");
 		selenium.doubleclickPlusButton(web);
 		selenium.ClickAddToCart();
 		web.handleAlert();
